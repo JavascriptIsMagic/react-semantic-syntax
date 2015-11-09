@@ -1,14 +1,14 @@
 {
   "name": "react-semantic-syntax",
+  "version": "1.0.0",
   "author": "Brian <javascriptismagic@gmail.com>",
+  "description": "Semantic Syntax for className in React for easily working with CSS Frameworks such as Semantic-UI, Bootstrap, and others.",
   "devDependencies": {
     "gulp": "4.0.0-alpha.1",
     "gulp-coffee": "^2.3.1",
     "gulp-size": "^2.0.0",
     "gulp-sourcemaps": "^1.6.0"
   },
-  "description": "Semantic Syntax for className in React for easily working with CSS Frameworks such as Semantic-UI, Bootstrap, and others.",
-  "version": "2.0.0",
   "main": "dist/react-semantic-syntax.js",
   "repository": {
     "type": "git",
