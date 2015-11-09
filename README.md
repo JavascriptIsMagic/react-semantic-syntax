@@ -5,7 +5,7 @@ Semantic Syntax for className in React for easily working with CSS Frameworks su
 React = require 'react'
 ReactDOM = require 'react-dom'
 
-semantic = require 'react-semantic-syntax/.coffee'
+semantic = require 'react-semantic-syntax/.cjsx'
 
 # React class example:
 Segment = React.createClass
