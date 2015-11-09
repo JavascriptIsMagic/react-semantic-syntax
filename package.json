@@ -1,6 +1,6 @@
 {
   "name": "react-semantic-syntax",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "author": "Brian <javascriptismagic@gmail.com>",
   "description": "Semantic Syntax for className in React for easily working with CSS Frameworks such as Semantic-UI, Bootstrap, and others.",
   "devDependencies": {
