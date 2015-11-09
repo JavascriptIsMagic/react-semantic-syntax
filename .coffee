@@ -1,1 +1,1 @@
-module.exports = require './lib/react-semantic-syntax'
+module.exports = require './src/react-semantic-syntax.coffee'
