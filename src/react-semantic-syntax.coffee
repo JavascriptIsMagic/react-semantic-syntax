@@ -24,7 +24,7 @@ semantic = (render) -> ->
     classNames = mergeClassName element.props
     if classNames then props.className = classNames
     React.cloneElement element, props, React.Children.map element.props.children, recurse
-  recurse render arguments...
+  recurse render.apply @, arguments
 
 semantic.mergeClassName = mergeClassName
 semantic.semantic = semantic
